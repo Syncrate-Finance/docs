@@ -30,7 +30,7 @@ These measures are intended to make the relationship between SGLD and its underl
 
 SGLD is the foundation of Syncrate’s broader work to bring real-world assets into onchain finance. It provides gold-backed exposure; it does not itself generate yield.
 
-Syncrate Prime is a separate product designed to give eligible SGLD holders access to yield generated through short-term gold-financing activity with bullion banks and refiners. This separates holding gold-backed exposure through SGLD from choosing to participate in a financing strategy through Prime.
+sySGLD is a separate product designed to give eligible SGLD holders access to yield generated through short-term gold-financing with vetted bullion banks and refiners. This separates holding gold-backed exposure through SGLD from choosing to participate in a financing strategy through Prime.
 
 ## The principle behind Syncrate
 
