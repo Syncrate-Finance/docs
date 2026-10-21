@@ -15,17 +15,3 @@ site:
           default: true
           content:
             directory: ./documentation
-    - type: section
-      key: section-2
-      title: SGLD
-      path: sgld
-      icon: coins
-      children:
-        - type: space
-          key: space-2
-          title: SGLD
-          path: sgld
-          default: true
-          draft: true
-          content:
-            directory: ./sgld
