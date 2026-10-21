@@ -6,11 +6,13 @@ site:
       key: section-1
       title: Syncrate Docs
       path: syncrate-docs
+      description: ""
+      icon: folder
       default: true
       children:
         - type: space
           key: space-1
-          title: Documentation
+          title: Syncrate Docs
           path: documentation
           default: true
           content:
