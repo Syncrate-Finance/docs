@@ -11,7 +11,10 @@
 
 ## Technical Architecture
 
-***
-
-* [Executive Summary](executive-summary.md)
-* [SGLD Token Design](sgld-token-design.md)
+* [Executive Summary](technical-architecture/executive-summary.md)
+* [SGLD Token Design](technical-architecture/sgld-token-design.md)
+* [Mint & Redeem Engine (SyncrateEngine)](technical-architecture/mint-and-redeem-engine-syncrateengine.md)
+* [Oracle Integration & Pricing](technical-architecture/oracle-integration-and-pricing.md)
+* [Reserve Management & Capacity Control](technical-architecture/reserve-management-and-capacity-control.md)
+* [Mint Flow](technical-architecture/mint-flow.md)
+* [Redeem Flow](technical-architecture/redeem-flow.md)
