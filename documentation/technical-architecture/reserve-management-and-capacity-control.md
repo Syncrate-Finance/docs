@@ -15,3 +15,11 @@ To support multi-chain issuance without double-minting risk, the Engine provides
 3. cancelReservation(bytes32 requestId) – Releases capacity if the cross-chain operation fails or is aborted.
 
 This design cleanly separates capacity accounting on the home chain from actual token issuance on remote chains, enabling secure LayerZero (or equivalent) integrations.<br>
+
+### Scope relative to sySGLD staking
+
+The reserve-cap and cross-chain reservation functions above describe SGLD issuance capacity. They do not define staking positions, lease accounting or sySGLD withdrawal liquidity.
+
+The current [sySGLD design](../sysgld/) involves direct leasing of the physical gold backing staked SGLD. Detailed accounting for that leased gold and its relationship to staking settlement must be specified before deposits open. A reserve-cap check or reserve audit alone does not demonstrate that leased gold can be returned on demand.
+
+See [Yield & Risks](../sysgld/yield-and-risks.md) for the financing and liquidity considerations.

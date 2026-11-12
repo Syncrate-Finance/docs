@@ -4,9 +4,11 @@ description: How SGLD is minted and redeemed.
 
 # Minting & Redemption
 
+This page covers minting and redeeming **SGLD** through SyncrateEngine. [Staking SGLD to receive sySGLD](../sysgld/staking.md) is a separate product with 30- or 90-day terms. Staking deposits are not yet open, and sySGLD withdrawal rules and fees have not yet been specified. The fees and queue described below apply to SGLD redemption.
+
 ## Onchain minting
 
-Minting is immediate and carries **no fee**. Users mint SGLD by depositing an approved stablecoin collateral through the SyncrateEngine contract via the [Minting Webapp](https://syncrate.org/app).
+Minting is immediate and carries **no fee**. Users mint SGLD by depositing an approved stablecoin collateral through the SyncrateEngine contract via the [Minting Webapp](https://app.syncrate.org).
 
 The flow is simple:
 
@@ -52,4 +54,4 @@ SGLD tokens can also be redeemed for the underlying gold bars with a minimum red
 
 ## Oracle and reserve checks
 
-Both minting and redemption depend on the Chainlink XAU/USD price feed. The Engine rejects prices that are zero or negative, or older than the configured staleness threshold.&#x20;
+Both minting and redemption depend on the Chainlink XAU/USD price feed. The Engine rejects prices that are zero or negative, or older than the configured staleness threshold.

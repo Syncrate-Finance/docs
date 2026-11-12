@@ -6,7 +6,7 @@ description: >-
 
 # What is SGLD?
 
-**SGLD (Syncrate Gold)** is a tokenized gold asset issued by Syncrate Technologies Inc. Each SGLD token is an ERC-20 token representing a direct ownership to 1 troy ounce of LBMA-standard physical gold held in secure vaults with Amanat Vaults in the UAE. It brings gold-backed exposure onchain, allowing users to hold and transfer a digital token rather than manage physical bullion themselves.&#x20;
+**SGLD (Syncrate Gold)** is a tokenized gold asset issued by Syncrate Technologies Inc. Each SGLD token is an ERC-20 token representing a direct ownership to 1 troy ounce of LBMA-standard physical gold held in secure vaults with Amanat Vaults in the UAE. It brings gold-backed exposure onchain, allowing users to hold and transfer a digital token rather than manage physical bullion themselves.
 
 ### Pricing
 
@@ -21,6 +21,12 @@ SGLD is a transferable ERC-20 token on Base. A holder can send it to another com
 3. A small amount of ETH on Base to pay the network transaction fee.
 
 Transferability does not mean that every exchange, wallet, protocol, or jurisdiction supports SGLD. Third-party services set their own listing, custody, and access requirements. Network fees are paid separately and can vary with Base network conditions.
+
+### Optional staking through sySGLD
+
+SGLD does not itself generate yield. The [sySGLD staking design](../sysgld/) provides an optional path to participate in gold-leasing income by staking SGLD for 30 or 90 days and receiving sySGLD. The minimum stake is 1 SGLD. Staking is coming soon; deposits are not yet open.
+
+The physical gold backing staked SGLD is leased directly to vetted bullion banks and established counterparties. Staking therefore adds financing and liquidity risks. See [Yield & Risks](../sysgld/yield-and-risks.md).
 
 ### Important considerations <a href="#important-considerations" id="important-considerations"></a>
 

@@ -9,6 +9,13 @@
 * [Secondary Trading Venues](sgld/secondary-trading-venues.md)
 * [Asset Verification](sgld/asset-verification.md)
 
+***
+
+* [sySGLD](sysgld/README.md)
+  * [Staking SGLD](sysgld/staking.md)
+  * [Yield & Risks](sysgld/yield-and-risks.md)
+* [SYNC Tokenomics](sync-tokenomics.md)
+
 ## Technical Architecture
 
 * [Executive Summary](technical-architecture/executive-summary.md)
