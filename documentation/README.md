@@ -30,9 +30,9 @@ These measures are intended to make the relationship between SGLD and its underl
 
 SGLD is the foundation of Syncrate’s broader work to bring real-world assets into onchain finance. It provides gold-backed exposure; it does not itself generate yield.
 
-[sySGLD](sysgld/) is Syncrate's yield-bearing gold asset. The current design lets eligible users stake SGLD for 30 or 90 days and receive sySGLD. The physical gold backing the staked SGLD is leased directly to vetted bullion banks and established counterparties, whose lease interest provides the source of yield.
+[sySGLD](sysgld/) is Syncrate's yield-bearing gold asset. Eligible users stake SGLD for 30 or 90 days and receive sySGLD. The physical gold backing the staked SGLD is leased directly to vetted bullion banks and established counterparties, whose lease interest provides the source of yield.
 
-Staking has a minimum of 1 SGLD and is coming soon; deposits are not yet open. Returns are variable and are not guaranteed. See [Staking SGLD](sysgld/staking.md) for availability and the terms that still need to be specified.
+The minimum stake is 1 SGLD. Returns are variable and are not guaranteed. See [Staking SGLD](sysgld/staking.md) for staking parameters and [Yield & Risks](sysgld/yield-and-risks.md) for important considerations.
 
 SYNC is a separate protocol token. Its allocation, release schedule and utility model are described in [SYNC Tokenomics](sync-tokenomics.md).
 

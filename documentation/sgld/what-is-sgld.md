@@ -24,7 +24,7 @@ Transferability does not mean that every exchange, wallet, protocol, or jurisdic
 
 ### Optional staking through sySGLD
 
-SGLD does not itself generate yield. The [sySGLD staking design](../sysgld/) provides an optional path to participate in gold-leasing income by staking SGLD for 30 or 90 days and receiving sySGLD. The minimum stake is 1 SGLD. Staking is coming soon; deposits are not yet open.
+SGLD does not itself generate yield. [sySGLD staking](../sysgld/) provides an optional path to participate in gold-leasing income by staking SGLD for 30 or 90 days and receiving sySGLD. The minimum stake is 1 SGLD.
 
 The physical gold backing staked SGLD is leased directly to vetted bullion banks and established counterparties. Staking therefore adds financing and liquidity risks. See [Yield & Risks](../sysgld/yield-and-risks.md).
 

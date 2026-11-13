@@ -4,7 +4,7 @@ description: How SGLD is minted and redeemed.
 
 # Minting & Redemption
 
-This page covers minting and redeeming **SGLD** through SyncrateEngine. [Staking SGLD to receive sySGLD](../sysgld/staking.md) is a separate product with 30- or 90-day terms. Staking deposits are not yet open, and sySGLD withdrawal rules and fees have not yet been specified. The fees and queue described below apply to SGLD redemption.
+This page covers minting and redeeming **SGLD** through SyncrateEngine. [Staking SGLD to receive sySGLD](../sysgld/staking.md) is a separate product with 30- or 90-day terms. The fees and queue described below apply to SGLD redemption, not to sySGLD staking and maturity settlement.
 
 ## Onchain minting
 

@@ -1,12 +1,12 @@
 # sySGLD
 
-sySGLD is Syncrate's yield-bearing gold asset. The current design lets eligible users stake SGLD for a fixed term of **30 or 90 days** and have sySGLD minted for their staking position.
+sySGLD is Syncrate's yield-bearing gold asset. Eligible users stake SGLD for a fixed term of **30 or 90 days** and have sySGLD minted for their staking position.
 
 The physical gold backing the staked SGLD is leased directly to vetted bullion banks and established counterparties. Their lease interest provides the source of yield for sySGLD holders.
 
-## Availability
+## Staking
 
-**Staking is coming soon. Deposits are not yet open.** The staking interface is available at [app.syncrate.org/stake](https://app.syncrate.org/stake). Selecting a term or entering an amount does not create a staking position.
+Users can access the staking experience at [app.syncrate.org/stake](https://app.syncrate.org/stake), select a 30- or 90-day term and stake eligible SGLD to receive sySGLD, subject to the transaction terms presented in the application.
 
 ## SGLD, sySGLD and SYNC
 
@@ -16,15 +16,15 @@ The physical gold backing the staked SGLD is leased directly to vetted bullion b
 | sySGLD | The asset minted when users stake SGLD to participate in gold-leasing yield.                                            |
 | SYNC   | The protocol token described in [SYNC Tokenomics](../sync-tokenomics.md), with a separate allocation and utility model. |
 
-The staking terms are fixed at 30 or 90 days. See the staking guide for the status of maturity settlement and withdrawals.
+The staking terms are fixed at 30 or 90 days. See the staking guide for the staking process and considerations relating to maturity and withdrawals.
 
 ## Explore sySGLD
 
-* [Staking SGLD](staking.md): terms, minimum stake, availability and withdrawal status.
+* [Staking SGLD](staking.md): terms, minimum stake and withdrawal considerations.
 * [Yield & Risks](yield-and-risks.md): the leasing model, performance metrics and participation risks.
 
 ## Yield and participation
 
 Lease income depends on the performance and repayment of the underlying financing arrangements. Returns are variable and are not guaranteed. Staking adds financing and liquidity risks to gold-price exposure.
 
-The current design specifies a **minimum stake of 1 SGLD**. Conversion rates, withdrawal procedures and fees will need to be published before deposits open. Participation remains subject to applicable eligibility requirements, jurisdiction restrictions and product terms.
+The **minimum stake is 1 SGLD**. Review the conversion amounts, withdrawal procedures and any applicable fees displayed or disclosed for a transaction before participating. Participation remains subject to eligibility requirements, jurisdiction restrictions and applicable product terms.

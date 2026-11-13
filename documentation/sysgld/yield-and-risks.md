@@ -2,7 +2,7 @@
 
 ## Where yield comes from
 
-Under the current sySGLD design, the physical gold backing staked SGLD is leased directly to vetted bullion banks and established counterparties. They pay lease interest, which provides the source of yield for sySGLD holders.
+The physical gold backing staked SGLD is leased directly to vetted bullion banks and established counterparties. They pay lease interest, which provides the source of yield for sySGLD holders.
 
 Staking is an explicit choice to participate in this financing activity. Holding SGLD alone does not earn staking yield. SYNC liquidity incentives and token-market purchases are separate from the gold-leasing yield source.
 
@@ -10,9 +10,9 @@ Staking is an explicit choice to participate in this financing activity. Holding
 
 Returns depend on the underlying leasing activity and are variable, rather than guaranteed.
 
-No authoritative yield-history source or current yield rate has been established for the new staking product. The app's historical APY metric is intended to describe trailing 30-day performance once supported by actual data. An unavailable metric is not a zero return or a promised future rate.
+Any yield rate or historical APY shown in the staking application is informational, may change, and does not guarantee future returns. Historical performance, where available, should be assessed against the underlying lease-income records and the period it covers.
 
-The current design does not yet specify how lease income is reflected in sySGLD balances, conversion values or payouts. Do not assume the previous Prime share-price model applies to fixed-term staking.
+Review the applicable staking terms to understand how lease income is reflected in sySGLD balances, conversion values or payouts. Fixed-term staking should not be assumed to follow a separate Prime share-price model.
 
 ## Risks to understand
 
@@ -28,6 +28,6 @@ Loss is possible. Vetting counterparties and verifying physical reserves do not 
 
 [SGLD asset verification](../sgld/asset-verification.md) concerns evidence about gold reserves. It is not evidence of sySGLD yield, lessee repayment or available withdrawal liquidity.
 
-Access is subject to eligibility, applicable jurisdiction restrictions and the final product terms. Review the [terms and disclosures](https://www.syncrate.org/terms). Businesses seeking a gold-leasing facility can use the separate [business inquiry page](https://www.syncrate.org/sysgld).
+Access is subject to eligibility, applicable jurisdiction restrictions and the applicable product terms. Review the [terms and disclosures](https://www.syncrate.org/terms). Businesses seeking a gold-leasing facility can use the separate [business inquiry page](https://www.syncrate.org/sysgld).
 
-See [Staking SGLD](staking.md) for the current terms and availability.
+See [Staking SGLD](staking.md) for staking terms and mechanics.

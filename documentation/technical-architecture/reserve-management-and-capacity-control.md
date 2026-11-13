@@ -20,6 +20,6 @@ This design cleanly separates capacity accounting on the home chain from actual 
 
 The reserve-cap and cross-chain reservation functions above describe SGLD issuance capacity. They do not define staking positions, lease accounting or sySGLD withdrawal liquidity.
 
-The current [sySGLD design](../sysgld/) involves direct leasing of the physical gold backing staked SGLD. Detailed accounting for that leased gold and its relationship to staking settlement must be specified before deposits open. A reserve-cap check or reserve audit alone does not demonstrate that leased gold can be returned on demand.
+[sySGLD](../sysgld/) involves direct leasing of the physical gold backing staked SGLD. Lease accounting and staking settlement are separate from the SGLD minting reserve-cap checks. A reserve-cap check or reserve audit alone does not demonstrate that leased gold can be returned on demand.
 
 See [Yield & Risks](../sysgld/yield-and-risks.md) for the financing and liquidity considerations.
