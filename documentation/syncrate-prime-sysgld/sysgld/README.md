@@ -27,11 +27,11 @@ sySGLD is **non-transferable**. It is not intended for ordinary trading, transfe
 
 ## SGLD, sySGLD and SYNC
 
-| Asset  | Purpose                                                                                                                     |
-| ------ | --------------------------------------------------------------------------------------------------------------------------- |
-| SGLD   | Syncrate's gold-backed token. Holding SGLD alone does not earn staking yield.                                               |
-| sySGLD | A non-transferable receipt for net SGLD principal committed to fixed-term staking; funded yield is paid separately in SGLD. |
-| SYNC   | The protocol token described in [SYNC Tokenomics](../sync-tokenomics.md), with a separate allocation and utility model.     |
+| Asset  | Purpose                                                                                                                         |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| SGLD   | Syncrate's gold-backed token. Holding SGLD alone does not earn staking yield.                                                   |
+| sySGLD | A non-transferable receipt for net SGLD principal committed to fixed-term staking; funded yield is paid separately in SGLD.     |
+| SYNC   | The protocol token described in [SYNC Tokenomics](../../sync/sync-tokenomics.md), with a separate allocation and utility model. |
 
 The SYNC points program and staking yield are separate. The Sunday points schedule does not establish a staking-yield payout schedule, and this staking design does not itself add new points eligibility.
 

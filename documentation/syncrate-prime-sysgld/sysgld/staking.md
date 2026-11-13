@@ -63,7 +63,7 @@ A withdrawal can collect funded rewards from up to 32 earning periods in one tra
 
 You do not need to wait for interest funding to recover matured principal: redeem principal alone and claim late-funded interest separately. Normal contract checks and the underlying SGLD token/network still apply; maturity is not a guarantee that external dependencies cannot interrupt transactions.
 
-The [SGLD minting and redemption process](../sgld/minting-and-redemption.md) concerns exchanging SGLD for supported stablecoins. Its fee schedule and FIFO queue are separate from sySGLD staking redemption, which returns SGLD.
+The [SGLD minting and redemption process](../../sgld/minting-and-redemption.md) concerns exchanging SGLD for supported stablecoins. Its fee schedule and FIFO queue are separate from sySGLD staking redemption, which returns SGLD.
 
 ## Restaking
 

@@ -9,12 +9,15 @@
 * [Secondary Trading Venues](sgld/secondary-trading-venues.md)
 * [Asset Verification](sgld/asset-verification.md)
 
-***
+## Syncrate Prime (sySGLD)
 
-* [sySGLD](sysgld/README.md)
-  * [Staking SGLD](sysgld/staking.md)
-  * [Yield & Risks](sysgld/yield-and-risks.md)
-* [SYNC Tokenomics](sync-tokenomics.md)
+* [sySGLD](syncrate-prime-sysgld/sysgld/README.md)
+  * [Staking SGLD](syncrate-prime-sysgld/sysgld/staking.md)
+  * [Yield & Risks](syncrate-prime-sysgld/sysgld/yield-and-risks.md)
+
+## SYNC
+
+* [SYNC Tokenomics](sync/sync-tokenomics.md)
 
 ## Technical Architecture
 

@@ -11,10 +11,10 @@ The system prioritizes capital efficiency, transparent reserve accounting, and o
 
 ## sySGLD staking
 
-The separate [sySGLD product](../sysgld/) uses fixed-term staking: users stake SGLD for 30 or 90 days, with a minimum of 1 SGLD, and receive sySGLD. The physical gold backing staked SGLD is leased directly to vetted bullion banks and established counterparties, with lease interest providing yield.
+The separate [sySGLD product](../syncrate-prime-sysgld/sysgld/) uses fixed-term staking: users stake SGLD for 30 or 90 days, with a minimum of 1 SGLD, and receive sySGLD. The physical gold backing staked SGLD is leased directly to vetted bullion banks and established counterparties, with lease interest providing yield.
 
 The SGLDToken and SyncrateEngine descriptions below cover SGLD issuance and redemption; sySGLD staking uses a separate product flow. Conversion, yield accounting, maturity settlement, early exits and fees are governed by the applicable staking terms.
 
-See [Staking SGLD](../sysgld/staking.md), [Yield & Risks](../sysgld/yield-and-risks.md) and [SYNC Tokenomics](../sync-tokenomics.md) for the corresponding product and token information.
+See [Staking SGLD](../syncrate-prime-sysgld/sysgld/staking.md), [Yield & Risks](../syncrate-prime-sysgld/sysgld/yield-and-risks.md) and [SYNC Tokenomics](../sync/sync-tokenomics.md) for the corresponding product and token information.
 
 <br>

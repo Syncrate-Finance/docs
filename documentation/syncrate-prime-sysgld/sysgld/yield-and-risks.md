@@ -89,7 +89,7 @@ Loss is possible. Vetting counterparties and verifying reserves do not guarantee
 
 ## Verification and access
 
-[SGLD asset verification](../sgld/asset-verification.md) concerns evidence about gold reserves. It is not evidence of staking yield, lessee repayment, cash interest collection or available reward funding.
+[SGLD asset verification](../../sgld/asset-verification.md) concerns evidence about gold reserves. It is not evidence of staking yield, lessee repayment, cash interest collection or available reward funding.
 
 Access is subject to eligibility, applicable jurisdiction restrictions and [product terms](https://www.syncrate.org/terms). Businesses seeking a gold-leasing facility can use the separate [business inquiry page](https://www.syncrate.org/sysgld).
 
